@@ -27,3 +27,4 @@ var imgSmall = function (name,num) {
 
 imgSmall("img-s",0.5)
 imgSmall("img-m",0.7)
+imgSmall("img-m",0.7)
