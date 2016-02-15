@@ -42,3 +42,4 @@ function readFile(path,filesList) {
 
 
 exports.scan = scan;
+  
